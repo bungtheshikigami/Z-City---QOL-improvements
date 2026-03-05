@@ -2,6 +2,10 @@ Hi, bung here. This will be the note section of what the intended idea is and wh
 
 weapon_hg_pda reworked into a health diagnostic unit.
 
+
+
+##Advanced Specialized Supervisory Health Obsessed Locator and Extrapolator Device##
+
 Tablet shows the vitals of the user it is tethered to. It can be tethered to the self and tethered to others. Has a limited range and can snap off if dragged away (with slight bleeding)
 
 Vitals provided:
